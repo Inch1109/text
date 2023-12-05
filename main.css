@@ -1,18 +1,17 @@
 header {
 
-    height:
-        300 px;
-
+    height          : 300 px;
     background-color: #bfed97;
-
-    border-radius:
-        10 px;
-
-    font-size:
-        30 px;
-
-    box-sizing: border-box;
-
-    padding:
-        20 px;
+    border-radius   : 10 px;
+    font-size       : 30 px;
+    box-sizing      : border-box;
+    padding         : 20 px;
 }
+main{
+    min-height: 600px;
+    background-color: #999999;
+    border-radius: 10px;
+    font-size: 30px;
+    box-sizing: border-box;
+    padding: 20px;
+  }
